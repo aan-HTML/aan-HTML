@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm aan  
+# 👋 Hi, I'm Aan  
 ### 💛 Front-End Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=FFC107&center=true&vCenter=true&width=480&lines=Front-End+Developer;UI+Focused+Web+Design;Clean+%26+Modern+Interfaces" />
