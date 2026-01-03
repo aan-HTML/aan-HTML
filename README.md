@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Aan  
+# 👋 Hi, I'm aan  
 ### 💛 Front-End Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=FFC107&center=true&vCenter=true&width=480&lines=Front-End+Developer;UI+Focused+Web+Design;Clean+%26+Modern+Interfaces" />
@@ -13,7 +13,7 @@
 🎓 Pelajar & **Front-End Developer**  
 🎨 Fokus pada **UI clean, modern, dan aesthetic**  
 🧩 Detail-oriented & design-driven  
-⚡ Senang membangun antarmuka web yang rapi dan nyaman
+⚡ Membangun antarmuka web yang rapi dan nyaman digunakan
 
 ---
 
@@ -41,17 +41,6 @@
 
 <p align="center">
   🔗 <b>https://aanweb.vercel.app</b>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aan-HTML&show_icons=true&theme=dark&title_color=ffc107&icon_color=ffc107&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aan-HTML&theme=dark&background=0d1117&ring=ffc107&fire=ffc107&currStreakLabel=ffc107&hide_border=true" />
 </p>
 
 ---
