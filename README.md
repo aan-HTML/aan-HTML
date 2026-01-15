@@ -40,7 +40,6 @@
 </p>
 
 <p align="center">
-  🔗 <b>https://aanweb.vercel.app</b>
 </p>
 
 ---
