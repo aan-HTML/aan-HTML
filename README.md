@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑 Tentang Aku :D
+## 🧑 About Me
 
 Aku adalah seorang pelajar yang memiliki passion besar di dunia **Frontend Development** dan **UI/UX Design**. Aku suka membangun antarmuka yang bersih, intuitif, dan menyenangkan untuk digunakan.
 
@@ -28,6 +28,9 @@ Aku tertarik dalam membangun tampilan web yang tidak hanya fungsional, tetapi ju
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 </div>
 
