@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑 About Me
+## About Me
 
 At first I was just curious, but now I’m totally in love with the world of Frontend and UI/UX Design. I feel so satisfied when I manage to transform raw ideas into a clean, visually appealing website. To me, creating a UI is like art, but there’s a logical structure to it so users don’t get confused when navigating the site.
 
@@ -16,7 +16,7 @@ I realize that in the IT world, you can’t afford to get complacent, so I’m a
 
 ---
 
-## 🛠️ Technologies and Tools
+## Technologies and Tools
 
 <div align="center">
 
@@ -36,11 +36,11 @@ I realize that in the IT world, you can’t afford to get complacent, so I’m a
 
 ---
 
-## 🏆 Achievements & Stats
+## Achievements & Stats
 
 <div align="center">
 
-### 📊 Coding Activity & Stats
+### Coding Activity & Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aan-HTML&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/aan-HTML)
 
@@ -52,7 +52,7 @@ I realize that in the IT world, you can’t afford to get complacent, so I’m a
 
 ---
 
-## 🐍 My Contribution Snake
+## My Contribution Snake
 
 <div align="center">
 
@@ -62,7 +62,7 @@ I realize that in the IT world, you can’t afford to get complacent, so I’m a
 
 ---
 
-## 📮 Contact Me & Socials
+## Contact Me & Socials
 
 <div align="center">
 
