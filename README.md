@@ -13,6 +13,7 @@
 At first I was just curious, but now I’m totally in love with the world of Frontend and UI/UX Design. I feel so satisfied when I manage to transform raw ideas into a clean, visually appealing website. To me, creating a UI is like art, but there’s a logical structure to it so users don’t get confused when navigating the site.
 
 I realize that in the IT world, you can’t afford to get complacent, so I’m always on the lookout for new things to learn. From new frameworks to trending design principles, I devour it all to keep my skills sharp. Bottom line: I’m ready to keep soaring and be part of the future of technology!
+
 ---
 
 ## 🛠️ Technologies and Tools
