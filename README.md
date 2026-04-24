@@ -62,18 +62,6 @@ Aku tertarik dalam membangun tampilan web yang tidak hanya fungsional, tetapi ju
 
 ---
 
-## 📌 Pinned Repositories
-
-> *(Ganti dengan project unggulan kamu)*
-
-| 📁 Project | 📝 Deskripsi | 🛠️ Tech |
-|-----------|-------------|--------|
-| [🔗 Nama Project 1](https://github.com/aan-HTML) | Deskripsi singkat project kamu | HTML, CSS, JS |
-| [🔗 Nama Project 2](https://github.com/aan-HTML) | Deskripsi singkat project kamu | TypeScript, Tailwind |
-| [🔗 Nama Project 3](https://github.com/aan-HTML) | Deskripsi singkat project kamu | Figma, UI/UX |
-
----
-
 ## 📮 Contact Me & Socials
 
 <div align="center">
