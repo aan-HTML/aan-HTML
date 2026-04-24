@@ -1,69 +1,94 @@
-# Halo, aku Aan 👋
+<div align="center">
 
-Seorang **Frontend Developer** dan **UI/UX Designer** yang juga masih berstatus pelajar. Aku suka membangun antarmuka yang bersih, intuitif, dan menyenangkan untuk digunakan.
-
-> *"Design is not just what it looks like. Design is how it works."*
-
----
-
-## 🧑‍💻 Tentang Aku
-
-- 🎓 Pelajar yang passionate di dunia **Frontend & UI/UX**
-- 🎨 Suka mendesain antarmuka yang **minimalis dan fungsional**
-- 🌱 Sedang mendalami **TypeScript** dan **Tailwind CSS**
-- 💡 Selalu penasaran dan terus belajar hal baru
+### Visitor Count
+![Profile Views](https://komarev.com/ghpvc/?username=aan-HTML&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## 🛠️ Tech Stack
+# Hi Guys! My Name is Aan 👋
 
-**Desain**
+**`Frontend Developer | UI/UX Designer | Pelajar 🎓`**
 
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
-
-**Frontend**
-
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS"/></a>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧑 Tentang Aku :D
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aan-HTML&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aan-HTML&layout=compact&theme=default&hide_border=true" />
-</p>
+Aku adalah seorang pelajar yang memiliki passion besar di dunia **Frontend Development** dan **UI/UX Design**. Aku suka membangun antarmuka yang bersih, intuitif, dan menyenangkan untuk digunakan.
 
----
-
-## 🚀 Project Unggulan
-
-> *(Tambahkan project kamu di sini)*
-
-| Project | Deskripsi | Tech |
-|--------|-----------|------|
-| 🔗 [Nama Project 1](https://github.com/aan-HTML) | Deskripsi singkat project | HTML, CSS, JS |
-| 🔗 [Nama Project 2](https://github.com/aan-HTML) | Deskripsi singkat project | Figma, Tailwind |
-| 🔗 [Nama Project 3](https://github.com/aan-HTML) | Deskripsi singkat project | TypeScript |
+Aku tertarik dalam membangun tampilan web yang tidak hanya fungsional, tetapi juga memberikan pengalaman pengguna yang optimal. Aku selalu siap belajar hal baru dan terus berkembang di dunia teknologi.
 
 ---
 
-## 📬 Hubungi Aku
+## 🛠️ Technologies and Tools
 
-> *(Ganti link di bawah dengan akun milikmu)*
+<div align="center">
 
-<a href="https://instagram.com/namakamu"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" height="32" alt="Instagram" title="Instagram"/></a>
-&nbsp;
-<a href="https://linkedin.com/in/namakamu"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:emailkamu@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Gmail" title="Email"/></a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aan-HTML&style=flat-square&color=lightgrey" alt="Profile views" />
-</p>
+## 🏆 Achievements & Stats
+
+<div align="center">
+
+### 📊 Coding Activity & Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aan-HTML&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/aan-HTML)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aan-HTML&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/aan-HTML)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aan-HTML&theme=tokyonight&hide_border=true)](https://github.com/aan-HTML)
+
+</div>
+
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/aan-HTML/aan-HTML/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📌 Pinned Repositories
+
+> *(Ganti dengan project unggulan kamu)*
+
+| 📁 Project | 📝 Deskripsi | 🛠️ Tech |
+|-----------|-------------|--------|
+| [🔗 Nama Project 1](https://github.com/aan-HTML) | Deskripsi singkat project kamu | HTML, CSS, JS |
+| [🔗 Nama Project 2](https://github.com/aan-HTML) | Deskripsi singkat project kamu | TypeScript, Tailwind |
+| [🔗 Nama Project 3](https://github.com/aan-HTML) | Deskripsi singkat project kamu | Figma, UI/UX |
+
+---
+
+## 📮 Contact Me & Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namakamu)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/namakamu)
+
+**Email: emailkamu@gmail.com**
+
+---
+
+✨ *"Design is not just what it looks like. Design is how it works."* ✨
+
+© 2026 Aan. All Rights Reserved
+
+</div>
