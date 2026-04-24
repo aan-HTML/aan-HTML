@@ -81,11 +81,11 @@ Aku tertarik dalam membangun tampilan web yang tidak hanya fungsional, tetapi ju
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namakamu)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/namakamu)
 
-**Email: emailkamu@gmail.com**
+**Email: aan27052010@gmail.com**
 
 ---
 
-✨ *"Design is not just what it looks like. Design is how it works."* ✨
+*"Design is not just what it looks like. Design is how it works."*
 
 © 2026 Aan. All Rights Reserved
 
