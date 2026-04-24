@@ -1,10 +1,5 @@
 <div align="center">
 
-### Visitor Count
-![Profile Views](https://komarev.com/ghpvc/?username=aan-HTML&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 # Hi Guys! My Name is Aan 👋
 
 **`Frontend Developer | UI/UX Designer | Pelajar 🎓`**
